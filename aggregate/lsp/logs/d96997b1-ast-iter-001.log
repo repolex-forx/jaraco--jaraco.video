@@ -1,0 +1,7 @@
+[2026-10-20T11:00:57Z] === AST ITERATION 1 START | repo=jaraco/jaraco.video sha=d96997b1 ===
+[2026-10-20T11:00:57Z] [iter=1] PHASE START: ast repo=jaraco/jaraco.video sha=d96997b1
+[2026-10-20T11:00:57Z] [iter=1] Building AST aggregate chunks
+[2026-10-20T11:00:59Z] [iter=1] AST chunks built count=1 triples=23248
+[2026-10-20T11:00:59Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/d96997b1cb66884d83aa8a3583a07220f9f0b2f2/.complete
+[2026-10-20T11:00:59Z] [iter=1] PHASE END: ast elapsed_s=3 elapsed_min=0.0
+[2026-10-20T11:00:59Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
