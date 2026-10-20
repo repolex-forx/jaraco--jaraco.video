@@ -1,0 +1,11 @@
+{
+  "org": "jaraco",
+  "repo": "jaraco.video",
+  "versions": [
+    {
+      "commit": "d96997b1cb66884d83aa8a3583a07220f9f0b2f2",
+      "tag": "",
+      "parsed_at": "2026-10-20T11:01:48.130227+00:00"
+    }
+  ]
+}
