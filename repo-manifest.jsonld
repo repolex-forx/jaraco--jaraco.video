@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/jaraco/jaraco.video/commit/d96997b1cb66884d83aa8a3583a07220f9f0b2f2",
       "git:hexsha": "d96997b1cb66884d83aa8a3583a07220f9f0b2f2",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-20T11:01:48.129722+00:00"
     },
     {
       "@id": "https://repolex.ai/r/jaraco/jaraco.video/commit/8183da3fd53c422cb76d4405e142428129114fd7",
